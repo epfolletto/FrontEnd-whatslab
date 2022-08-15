@@ -15,7 +15,6 @@ O repositório do projeto pode ser encontrado [aqui](https://github.com/future4c
 # `Instalando e rodando o projeto`
 Fazer o clone do projeto:
 - git clone link-do-repositório
-
 Instalar as dependências:
 - npm install
 
