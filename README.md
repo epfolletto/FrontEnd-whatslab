@@ -5,7 +5,7 @@ Projeto WhatsLab
 [Clique aqui](https://folletto-whatslab.surge.sh/)
 
 # `Descrição`
-[Projeto desenvolvido na semana 6 do curso Labenu]
+[Projeto desenvolvido na semana 6 do curso Labenu] </br>
 O Projeto WhatsLab foi desenvolvido dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em uma tela, baseada no aplicativo WhatsApp, simulando uma conversa em grupo. As mensagem preenchidas com "eu" no campo autor são colocadas no lado direito da tela e as demais no lado esquerdo. As mensagens podem ser enviadas tanto com clique do mouse quanto pressionando a tecla "enter". Também é possível apagar as mensagens, dando duplo clique sobre as mesmas para tal.
 
 # `Instalando e rodando o projeto`
