@@ -5,7 +5,8 @@ Projeto WhatsLab
 [Clique aqui](https://folletto-whatslab.surge.sh/)
 
 # `Descrição`
-O Projeto LabeFoods foi desenvolvido como projeto final de Front End dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em requisições (via axios) para a API labeFoods, que contém informações relacionadas ao desenvolvimento de uma aplicação que simula um aplicativo semelhante ao conhecido app iFood. Este projeto foi baseado no layout layout FutureEats.
+[Projeto desenvolvido na semana 6 do curso Labenu]
+O Projeto WhatsLab foi desenvolvido dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em requisições (via axios) para a API labeFoods, que contém informações relacionadas ao desenvolvimento de uma aplicação que simula um aplicativo semelhante ao conhecido app iFood. Este projeto foi baseado no layout layout FutureEats.
 </br>
 A documentação da API pode ser encontrada [aqui](https://documenter.getpostman.com/view/7549981/SWTEdGtT)
 </br>
@@ -52,46 +53,6 @@ Evandro Paulo Folletto
 <a href="https://www.linkedin.com/in/evandrofolletto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/epfolletto"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
 </br>
 
-José Robinaldo Ramos da Silva
-</br>
-<a href="https://www.linkedin.com/in/jose-robinaldo-ramos-da-silva-junior-50182113a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/leonardojcsl"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</br>
-
-Leonardo José Silva Lopes de Souza
-</br>
-<a href="https://www.linkedin.com/in/leonardojcsl91/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/marleopr"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</br>
-
-Márleo Piber da Rosa
-</br>
-<a href="https://www.linkedin.com/in/marleopiber/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/Joserobinaldo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</br>
-
-Olavo Marques do Nascimento
-</br>
-<a href="https://www.linkedin.com/in/olavo-marques-6421ab123/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/Olavo-marques"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-
-# `Imagens`
-### Página Login
-<img src="./future-eats-b/src/assets/img_readme/login.png"/>
-
-### Página SignUp (Cadastro)
-<img src="./future-eats-b/src/assets/img_readme/signup.png"/>
-
-### Página Feed
-<img src="./future-eats-b/src/assets/img_readme/feed.png"/>
-
-### Página detalhes
-<img src="./future-eats-b/src/assets/img_readme/restaurant.png"/>
-
-### Página Carrinho
-<img src="./future-eats-b/src/assets/img_readme/cart.png"/>
-
-### Página Perfil
-<img src="./future-eats-b/src/assets/img_readme/profile.png"/>
-
-### Página Editar perfil
-<img src="./future-eats-b/src/assets/img_readme/profile_edit.png"/>
-
-### Página Editar Endereço
-<img src="./future-eats-b/src/assets/img_readme/profile_address.png"/>
+# `Imagem`
+### Página Chat
+<img src="./src/img/Site_1.png"/>
