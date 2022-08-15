@@ -6,11 +6,7 @@ Projeto WhatsLab
 
 # `Descrição`
 [Projeto desenvolvido na semana 6 do curso Labenu]
-O Projeto WhatsLab foi desenvolvido dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em requisições (via axios) para a API labeFoods, que contém informações relacionadas ao desenvolvimento de uma aplicação que simula um aplicativo semelhante ao conhecido app iFood. Este projeto foi baseado no layout layout FutureEats.
-</br>
-A documentação da API pode ser encontrada [aqui](https://documenter.getpostman.com/view/7549981/SWTEdGtT)
-</br>
-O repositório do projeto pode ser encontrado [aqui](https://github.com/future4code/Alves-labe-food5)
+O Projeto WhatsLab foi desenvolvido dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em uma tela, baseada no aplicativo WhatsApp, simulando uma conversa em grupo. As mensagem preenchidas com "eu" no campo autor são colocadas no lado direito da tela e as demais no lado esquerdo. As mensagens podem ser enviadas tanto com clique do mouse quanto pressionando a tecla "enter". Também é possível apagar as mensagens, dando duplo clique sobre as mesmas para tal.
 
 # `Instalando e rodando o projeto`
 Fazer o clone do projeto:
