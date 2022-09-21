@@ -1,5 +1,5 @@
 # `Projeto`
-Projeto WhatsLab
+WhatsLab
 
 # `Link`
 [Clique aqui](https://folletto-whatslab.surge.sh/)
